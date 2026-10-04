@@ -681,21 +681,26 @@ This project demonstrates practical experience with:
 
 # 📸 Screenshots
 
-Recommended screenshots to add to the repository:
-
-1. Dashboard
-2. AI Tutor chat
-3. PDF upload and RAG response
-4. Code Debugger
-5. Multimodal image analysis
-
-Example:
-
 ```markdown
+## 🏠 Dashboard
+
 ![Dashboard](docs/screenshots/dashboard.png)
-![AI Tutor](docs/screenshots/ai-tutor.png)
-![Code Debugger](docs/screenshots/code-debugger.png)
-![Multimodal Analysis](docs/screenshots/multimodal.png)
+
+## 🖼️ Multimodal Image Analysis
+
+![Image Upload](docs/screenshots/Image_upload.png)
+
+## ✍️ Handwritten Image Analysis
+
+![Handwritten Image Analysis](docs/screenshots/handwritten_image.png)
+
+## 🔄 Flowchart Analysis
+
+![Flowchart Analysis](docs/screenshots/flowchart_diagram_upload.png)
+
+## 📚 RAG Document Upload
+
+![PDF Upload](docs/screenshots/pdf_upload.png)
 ```
 
 ---
